@@ -26,9 +26,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[![Video Title](http://img.youtube.com/vi/h1hQ1OEPkDQ/0.jpg)]([http://www.youtube.com/watch?v=0Zvi0OMcs7o](https://youtube.com/shorts/h1hQ1OEPkDQ?feature=share))
+[![Video Title](http://img.youtube.com/vi/h1hQ1OEPkDQ/0.jpg)](http://www.youtube.com/watch?v=h1hQ1OEPkDQ)
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
