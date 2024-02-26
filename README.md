@@ -1,8 +1,8 @@
-# Project 1 - Photo Scavenger Hunt
+# Project 1 - *Photo Scavenger Hunt*
 
-Submitted by: Lixing Zheng
+Submitted by: **Lixing Zheng**
 
-Photo Scavenger Hunt is an app that allows use to upload photos and also track where was the photo taken.
+**Photo Scavenger Hunt** is an app that allows use to upload photos and also track where was the photo taken.
 
 Time spent: **3** hours spent in total
 
